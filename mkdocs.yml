@@ -82,13 +82,3 @@ plugins:
        background: white
        shadow: true
        manual: false
-
-
-# extra:
-#   social:
-#     - icon: Roblox_Studio_logo
-#       link: https://create.roblox.com/store/asset/9562533807/CFS-Dress-rigs-from-Studio?pagePosition=10
-#     - icon: fontawesome/brands/youtube
-#       link: https://www.youtube.com/@mcsdev/videos
-
-# copyright: "Copyright &copy; 2025 Roda"
