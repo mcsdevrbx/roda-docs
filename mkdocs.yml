@@ -1,0 +1,94 @@
+site_name: Roda Docs
+theme:
+  icon:
+    admonition:
+      example: fontawesome/brands/python
+  features:
+    - content.code.copy
+    - navigation.footer
+  name: material
+  custom_dir: overrides
+  font:
+    text: Nunito
+    code: Roboto Mono
+  palette:
+    scheme: slate
+    primary: blue
+
+  logo: img/roda_logo.svg
+  favicon: img/roda_logo.svg
+
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+  - Home: pages/home.md
+  - Editor: pages/editor.md
+  - Export: pages/export.md
+  - Import: pages/import.md
+  - Project Settings: pages/project-settings.md
+  - Tools: pages/tools.md
+  - Global Settings: pages/global-settings.md
+  - Types: pages/examples-complex-types.md
+  - Example - ModuleScript as DB: pages/examples-modulescripts-as-database.md
+  - Example - Google Sheets API: pages/examples-export-import-gs.md
+  - Limitations: pages/limitations.md
+
+
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+extra_css:
+  - css/extra.css
+
+plugins:
+   - search
+   - social
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - skip-lightbox
+       auto_caption: false
+       caption_position: bottom
+       background: white
+       shadow: true
+       manual: false
+
+
+# extra:
+#   social:
+#     - icon: Roblox_Studio_logo
+#       link: https://create.roblox.com/store/asset/9562533807/CFS-Dress-rigs-from-Studio?pagePosition=10
+#     - icon: fontawesome/brands/youtube
+#       link: https://www.youtube.com/@mcsdev/videos
+
+# copyright: "Copyright &copy; 2025 Roda"
