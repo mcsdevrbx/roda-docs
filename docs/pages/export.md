@@ -7,7 +7,7 @@ On the Export page, data files can be exported in multiple ways.
 - Select a data file that you want to export
 
 === "DataStore"
-    ![Export to DataStore](/img/export-datastore.gif){ width="406" class="center" data-caption-position="top" data-title="Export to DataStore" data-description="" }
+    ![Export to DataStore](/roda-docs/img/export-datastore.gif){ width="406" class="center" data-caption-position="top" data-title="Export to DataStore" data-description="" }
 
     - Enter new or existing DataStore name
     - Enter new or existing Key
@@ -17,7 +17,7 @@ On the Export page, data files can be exported in multiple ways.
         To quickly check the saved data, you can use the Roda Tool "Get DataStore Data". Insert the Datastore name and click "Print".
 
 === "API"
-    ![Export to API](/img/export-api.gif){ width="406" class="center" data-caption-position="top" data-title="Export to API" data-description="" }
+    ![Export to API](/roda-docs/img/export-api.gif){ width="406" class="center" data-caption-position="top" data-title="Export to API" data-description="" }
 
     - Select JSON or CSV as Format
     - Enter the URL of your API's export route
@@ -59,7 +59,7 @@ On the Export page, data files can be exported in multiple ways.
         If you need help creating an API, check out: [Example - Google Sheets API](/pages/examples-export-import-gs)
 
 === "File"
-    ![Export to File](/img/export-file.gif){ width="406" class="center" data-caption-position="top" data-title="Export to File" data-description="" }
+    ![Export to File](/roda-docs/img/export-file.gif){ width="406" class="center" data-caption-position="top" data-title="Export to File" data-description="" }
     
     - Select JSON or CSV as Format and click "Export"
         - The exported file will be parented to the selected data file.

@@ -5,9 +5,9 @@ icon: bootstrap/house
 ### New Project
 
 - Enter a name for your project in the provided field.
-- Press "Enter" or click the <img src="/img/add-button-s.png" alt="Plus Button" width="60" class="skip-lightbox"> button to create the project.
+- Press "Enter" or click the <img src="/roda-docs/img/add-button-s.png" alt="Plus Button" width="60" class="skip-lightbox"> button to create the project.
 
-![New Project](/img/new-project.gif){ width="600" class="center" data-caption-position="top" data-title="New Project" data-description="Enter a name for your project in the provided field and hit 'Enter' or click the + Button to create a new project." }
+![New Project](/roda-docs/img/new-project.gif){ width="600" class="center" data-caption-position="top" data-title="New Project" data-description="Enter a name for your project in the provided field and hit 'Enter' or click the + Button to create a new project." }
 
 ---
 

@@ -7,14 +7,14 @@ On the Import page, data files can be imported in multiple ways.
 - Select a data file that you want to import data into
 
 === "DataStore"
-    ![Import from DataStore](/img/import-datastore.gif){ width="406" class="center" data-caption-position="top" data-title="Import from DataStore" data-description="" }
+    ![Import from DataStore](/roda-docs/img/import-datastore.gif){ width="406" class="center" data-caption-position="top" data-title="Import from DataStore" data-description="" }
 
     - Enter an existing DataStore name
     - Enter an existing Key
     - Click "Inport"
 
 === "API"
-    ![Import from API](/img/import-api.gif){ width="406" class="center" data-caption-position="top" data-title="Import from API" data-description="" }
+    ![Import from API](/roda-docs/img/import-api.gif){ width="406" class="center" data-caption-position="top" data-title="Import from API" data-description="" }
 
     - Select JSON or CSV as Format
     - Enter the URL of your API's import route
@@ -55,7 +55,7 @@ On the Import page, data files can be imported in multiple ways.
         If you need help creating an API, check out: [Example - Google Sheets API](/pages/examples-export-import-gs)
 
 === "File"
-    ![Import from File](/img/import-file.gif){ width="406" class="center" data-caption-position="top" data-title="Import from File" data-description="" }
+    ![Import from File](/roda-docs/img/import-file.gif){ width="406" class="center" data-caption-position="top" data-title="Import from File" data-description="" }
     
     - Select the Format
     - Select a file in the Explorer that contains the data you want to import
