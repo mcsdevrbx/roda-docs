@@ -1,12 +1,12 @@
 site_name: Roda Docs
 theme:
+  name: material
   icon:
     admonition:
       example: fontawesome/brands/python
   features:
     - content.code.copy
     - navigation.footer
-  name: material
   custom_dir: overrides
   font:
     text: Nunito
@@ -65,7 +65,7 @@ extra_css:
 
 plugins:
    - search
-   - social
+   #- social
    - glightbox:
        touchNavigation: true
        loop: false
