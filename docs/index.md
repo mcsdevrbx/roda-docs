@@ -44,7 +44,7 @@ Most of the plugin’s functions are intuitive and self-explanatory, requiring l
 
 <img src="/roda-docs/img/yt.svg" alt="Plus Button" width="16" class="skip-lightbox"> [Roda Tutorial](https://youtu.be/gaCZ7cL6XtI){:target="_blank"}
 
-<img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Dev Forum Post] Link wil bee added soon.
+<img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Dev Forum Post](https://devforum.roblox.com/t/roda-plugin-a-powerful-data-editor/3595946){:target="_blank"}
 
 <img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Get Roda on the Roblox Creator Hub Store](https://create.roblox.com/store/asset/133651980498948/Roda){:target="_blank"}
 
