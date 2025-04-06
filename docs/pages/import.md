@@ -11,7 +11,7 @@ On the Import page, data files can be imported in multiple ways.
 
     - Enter an existing DataStore name
     - Enter an existing Key
-    - Click "Inport"
+    - Click "Import"
 
 === "API"
     ![Import from API](/roda-docs/img/import-api.gif){ width="406" class="center" data-caption-position="top" data-title="Import from API" data-description="" }
