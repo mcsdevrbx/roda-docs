@@ -46,7 +46,7 @@ Most of the plugin’s functions are intuitive and self-explanatory, requiring l
 
 <img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Dev Forum Post] Link wil bee added soon.
 
-<img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Get Roda on the Roblox Creator Hub Store](https://create.roblox.com/store/asset/133651980498948/Roda) - Will be released in a bit.
+<img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Plus Button" width="18" class="skip-lightbox"> [Get Roda on the Roblox Creator Hub Store](https://create.roblox.com/store/asset/133651980498948/Roda){:target="_blank"}
 
 <img src="/roda-docs/img/guilded.svg" alt="Plus Button" width="16" class="skip-lightbox"> [For support & feedback join Roda's Guilded server](https://www.guilded.gg/i/kJaOowY2){:target="_blank"}
 
