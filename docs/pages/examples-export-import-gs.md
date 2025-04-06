@@ -39,5 +39,5 @@ An example of setting up a basic Python API to import/export data from/to Roda a
     - You can now use the endpoints to export/import data in Roda
         - `http://localhost:5000/export`
         - `http://localhost:5000/import`
-        - [Test the export](/pages/export/#__tabbed_1_2)
+        - [Test the export](/roda-docs/pages/export/#__tabbed_1_2)
         - Change some data in your spreadsheet and test the import

@@ -5,4 +5,4 @@
     - A light theme is planned and will be implemented in the near future.
 
 === "Data File Size Limitation"
-    Explanation and possible workarounds: [Data File Size Limitation](/pages/editor/#data-file-size-limitation)
+    Explanation and possible workarounds: [Data File Size Limitation](/roda-docs/pages/editor/#data-file-size-limitation)

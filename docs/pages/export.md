@@ -56,7 +56,7 @@ On the Export page, data files can be exported in multiple ways.
         ```
 
     !!! note "Set up an API"
-        If you need help creating an API, check out: [Example - Google Sheets API](/pages/examples-export-import-gs)
+        If you need help creating an API, check out: [Example - Google Sheets API](/roda-docs/pages/examples-export-import-gs)
 
 === "File"
     ![Export to File](/roda-docs/img/export-file.gif){ width="406" class="center" data-caption-position="top" data-title="Export to File" data-description="" }
@@ -66,4 +66,4 @@ On the Export page, data files can be exported in multiple ways.
         - The exported file is a ModuleScript with a string of either JSON or CSV data.
     
     !!! note "CSV Delimiter"
-        The CSV delimiter can be edited in [Global Settings](/pages/global-settings/)
+        The CSV delimiter can be edited in [Global Settings](/roda-docs/pages/global-settings/)

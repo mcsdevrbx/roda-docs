@@ -32,7 +32,7 @@ To add a data file configuration,
 
 !!! note "Important Notes"
     Once set, the data file path cannot be changed. To use a different data file, you must delete the data file configuration and create a new one.
-    When you "Pick" a selected ModuleScript in the Explorer, its contents will be backed up (if enabled in [Global Settings](/pages/global-settings/)) and cleared. If the file is already in use in another data
+    When you "Pick" a selected ModuleScript in the Explorer, its contents will be backed up (if enabled in [Global Settings](/roda-docs/pages/global-settings/)) and cleared. If the file is already in use in another data
     file configuration, you cannot set it here - a warning will appear in the Studio output, indicating which project and data file configuration is using it.
 
 --- 
@@ -101,7 +101,7 @@ You can add properties to the data file configuration in several ways:
 !!! note "Editing Properties"
     You can reorder properties, which affects how items are displayed in the editable area and in the tabs on the Editor page. Note that only the first four properties of each item are visible in the tabs.
 
-    You can also edit properties even after adding items to the data file. However, exercise caution, as this can lead to data loss in the current source file (though data is backed up if enabled in [Global Settings](/pages/global-settings/)). For example:
+    You can also edit properties even after adding items to the data file. However, exercise caution, as this can lead to data loss in the current source file (though data is backed up if enabled in [Global Settings](/roda-docs/pages/global-settings/)). For example:
 
     If you rename the key of a property, all values associated with that key in the source file will be reset to their default values, and the previous key’s values will be removed. Changing primary keys can be particularly problematic, potentially requiring tedious data restoration. Be especially careful with these changes.
 
@@ -138,7 +138,7 @@ For Dropdown UI Elements, there’s an option in the "Data File Settings" to dis
 ### Copying an Existing Data File Configuration
 You can copy an existing data file configuration from any project. This process:
 
-- Backs up the current data file source (if enabled in [Global Settings](/pages/global-settings/)) and clears it.
+- Backs up the current data file source (if enabled in [Global Settings](/roda-docs/pages/global-settings/)) and clears it.
 - Imports the properties and table type (Array or Dict) from the copied data file.
 - Retains other settings, such as the selected data file source, additional data file, and image pool, as they are.
 
@@ -149,7 +149,7 @@ This feature is useful for organizational purposes, such as splitting a main ite
 ---
 
 ### Backing Up the Data File
-You can manually back up the data file by clicking the "Backup Data File" button. This creates a backup of the actual data (not the configuration) and saves it to the specified folder (default: ServerStorage.Backup, editable in [Global Settings](/pages/global-settings/)).
+You can manually back up the data file by clicking the "Backup Data File" button. This creates a backup of the actual data (not the configuration) and saves it to the specified folder (default: ServerStorage.Backup, editable in [Global Settings](/roda-docs/pages/global-settings/)).
 
 <img class ="center" src="/roda-docs/img/backup-df.png" alt="Home Page" width="264">
 
@@ -163,7 +163,7 @@ You can save the entire project configuration, including all data file configura
 !!! note
     The experience must be saved to Roblox, and Studio API services must be enabled in the game settings.
 
-This feature is designed to synchronise project configurations in Team Create or between different machines: [Load Project from DataStore](/pages/home/#load-project-from-datastore)
+This feature is designed to synchronise project configurations in Team Create or between different machines: [Load Project from DataStore](/roda-docs/pages/home/#load-project-from-datastore)
 
 ---
 

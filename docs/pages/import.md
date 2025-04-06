@@ -52,7 +52,7 @@ On the Import page, data files can be imported in multiple ways.
         ```
         
     !!! note "Set up an API"
-        If you need help creating an API, check out: [Example - Google Sheets API](/pages/examples-export-import-gs)
+        If you need help creating an API, check out: [Example - Google Sheets API](/roda-docs/pages/examples-export-import-gs)
 
 === "File"
     ![Import from File](/roda-docs/img/import-file.gif){ width="406" class="center" data-caption-position="top" data-title="Import from File" data-description="" }
@@ -63,7 +63,7 @@ On the Import page, data files can be imported in multiple ways.
         
     
     !!! note "CSV Delimiter"
-        The CSV delimiter can be edited in [Global Settings](/pages/global-settings/)
+        The CSV delimiter can be edited in [Global Settings](/roda-docs/pages/global-settings/)
     
     ??? note "Side Effect..."
         A side effect of importing a ModuleScript is that it can essentially act as a script executor. For instance, if this were the content of the ModuleScript you’re importing:
