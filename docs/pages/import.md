@@ -80,4 +80,4 @@ On the Import page, data files can be imported in multiple ways.
             ```
         Alongside a warning indicating that no data can be imported, you’ll see this message printed in the Studio Output: 'This can be used as a script runner...'
 
-        No data would be imported into the selected target data file, so it remains unchanged. However, because ```require()``` is called on the ModuleScript you’re importing, its code will execute. This allowes you to run custom scripts or functions in Studio. :bootstrap-exclamation-triangle-fill:{ .exclamation-triangle } That said, be careful not to select a file that could potentially harm your code or project when executed with require().
+        No data would be imported into the selected target data file, so it remains unchanged. However, because ```require()``` is called on the ModuleScript you’re importing, its code will execute. This allows you to run custom scripts or functions in Studio. :bootstrap-exclamation-triangle-fill:{ .exclamation-triangle } That said, be careful not to select a file that could potentially harm your code or project when executed with require().
