@@ -15,6 +15,6 @@ Roda offers several handy tools that operate independently of any specific proje
 
 ### View Images
 
-In Explorer, select a folder with imges or a ModuleScript with imageIDs and click "View" to browse the images.
+In Explorer, select a folder with images or a ModuleScript with imageIDs and click "View" to browse the images.
 
-![View Images](/roda-docs/img/view-images.gif){ width="600" class="center" data-caption-position="top" data-title="View Images" data-description="In Explorer, select a folder with imges or a ModuleScript with imageIDs and click 'View' to browse the images." }
+![View Images](/roda-docs/img/view-images.gif){ width="600" class="center" data-caption-position="top" data-title="View Images" data-description="In Explorer, select a folder with images or a ModuleScript with imageIDs and click 'View' to browse the images." }

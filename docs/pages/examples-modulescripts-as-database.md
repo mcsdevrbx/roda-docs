@@ -1,7 +1,7 @@
 This section provides a beginner-friendly example of using a ModuleScript in Roblox as a simple database for storing and managing game data, demonstrating how to set up, populate, and interact with data in a Roblox game.
 
 
-- <img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Roda Logo" width="20" class="skip-lightbox"> Create a new expirience in Roblox Studio
+- <img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Roda Logo" width="20" class="skip-lightbox"> Create a new experience in Roblox Studio
 - <img src="/roda-docs/img/Roblox_Studio_logo.svg" alt="Roda Logo" width="20" class="skip-lightbox"> Create a ModuleScript in ServerStorage and name it "Items"
 - <img src="/roda-docs/img/roda_logo_lightgray.svg" alt="Roda Logo" width="20" class="skip-lightbox"> Create a new Project in Roda
 - <img src="/roda-docs/img/roda_logo_lightgray.svg" alt="Roda Logo" width="20" class="skip-lightbox"> Create a new Data File Configuration

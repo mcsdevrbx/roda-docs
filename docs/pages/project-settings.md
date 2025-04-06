@@ -18,7 +18,7 @@ To add a data file configuration,
 - create a ModuleScript in Studio to serve as the data file (source file).
 - Name the ModuleScript as you like. 
 - Then click the <img src="/roda-docs/img/add-button-s.png" alt="Plus Button" width="60" class="skip-lightbox"> button in the "Data File Configs" section. 
-- And finally select the data file configuration and (with the ModuleScript selected in Explorer) click <img src="/roda-docs/img/pick-button.png" alt="Pick Button" width="70" class="skip-lightbox"> to set the path to the selceted file.
+- And finally select the data file configuration and (with the ModuleScript selected in Explorer) click <img src="/roda-docs/img/pick-button.png" alt="Pick Button" width="70" class="skip-lightbox"> to set the path to the selected file.
 
 ![Adding a Data File Configuration](/roda-docs/img/add-datafile-config.gif){ width="600" class="center" data-caption-position="top" data-title="Adding a Data File Configuration" data-description=".desc-add-data-file-configuration" }
 
@@ -27,7 +27,7 @@ To add a data file configuration,
   <p>- create a ModuleScript in Studio to serve as the data file (source file).</p>
   <p>- Name the ModuleScript as you like.</p>  
   <p>- Then click the + button in the 'Data File Configs' section. </p>  
-  <p>- And finally select the data file configuration and (with the ModuleScript selected in Explorer) click 'Pick' to set the path to the selceted file.</p>  
+  <p>- And finally select the data file configuration and (with the ModuleScript selected in Explorer) click 'Pick' to set the path to the selected file.</p>  
 </div>
 
 !!! note "Important Notes"
@@ -163,7 +163,7 @@ You can save the entire project configuration, including all data file configura
 !!! note
     The experience must be saved to Roblox, and Studio API services must be enabled in the game settings.
 
-This feature is designed to synchronise project configurations in Team Create or between different machines: [Load Project from DataStore](/roda-docs/pages/home/#load-project-from-datastore)
+This feature is designed to synchronize project configurations in Team Create or between different machines: [Load Project from DataStore](/roda-docs/pages/home/#load-project-from-datastore)
 
 ---
 
