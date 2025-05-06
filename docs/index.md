@@ -1,4 +1,4 @@
-Roda is a Roblox Studio plugin designed to streamline the process of editing structured data in ModuleScripts, which can serve as a backend database system for any in-game items or elements. While you can edit ModuleScripts directly in Roblox Studio to achieve the same result, Roda offers a user-friendly UI with faster, more efficient methods and convenient features to manage and modify a wide variety of game components, including:
+Roda is a Roblox Studio plugin designed to edit structured data in ModuleScripts, which can serve as a backend database system for any in-game items or elements. While you can edit ModuleScripts directly in Roblox Studio to achieve the same result, Roda offers a user-friendly UI with faster, more efficient methods and convenient features to manage and modify a wide variety of game components, including:
 ??? list
     - Items (e.g., weapons, armor, consumables, tools, currency, collectibles)
     - Dialogs (e.g., NPC conversations, quest prompts, player interactions)
@@ -38,7 +38,7 @@ Roda is a Roblox Studio plugin designed to streamline the process of editing str
     - Social Features (e.g., friend lists, guilds, chat systems, party mechanics)
 
 
-Most of the plugin’s functions are intuitive and self-explanatory, requiring little to no documentation. However, there are certain features and processes that occur in the background, which may not be immediately or fully visible in the user interface. Understanding these can enhance your experience and productivity. Additionally, the documentation includes examples to help you get started quickly and effectively.
+Most of the plugin’s functions are intuitive and self-explanatory, requiring little to no documentation. However, there are certain features and processes that occur in the background, which may not be immediately or fully visible in the user interface. Understanding these can enhance your experience and productivity. Additionally, the documentation includes examples to help you get started quickly.
 
 ---
 

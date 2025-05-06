@@ -31,7 +31,6 @@ nav:
   - Types: pages/examples-complex-types.md
   - Example - ModuleScript as DB: pages/examples-modulescripts-as-database.md
   - Example - Google Sheets API: pages/examples-export-import-gs.md
-  - Limitations: pages/limitations.md
 
 
 

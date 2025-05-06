@@ -1,7 +1,6 @@
-To ensure compatibility with Roblox [DataStore](https://create.roblox.com/docs/reference/engine/classes/DataStore){:target="_blank"}, Roda only supports primitive data types (strings, numbers, booleans).
+To ensure compatibility with Roblox [DataStore](https://create.roblox.com/docs/reference/engine/classes/DataStore){:target="_blank"}, Roda only supports primitive data types (strings, numbers, booleans). Having nested tables and complex types at runtime in your table can be achieved very easy using the provided [code generation](/roda-docs/pages/project-settings#generating-table-assembler-code).
 
-This section offers some basic examples of converting primitives into complex Roblox types. 
-
+If for some reasons you don't want to use the code generation, here are some basic examples of converting primitives into complex Roblox types. 
 
 ### Color3
 
