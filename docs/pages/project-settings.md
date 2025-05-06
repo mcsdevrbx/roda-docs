@@ -153,7 +153,7 @@ This feature is useful for organizational purposes, such as splitting a main ite
 ### Generating Table Assembler Code 
 You can generate code that will assemble the table at runtime including all related tables adding them as nested tables by default. The generated code can be easily adjusted to construct complex types instead of nested tables!
 
-- See this post in the dev forum for details: [Update](https://devforum.roblox.com/t/plugin-roda-a-powerful-data-editor/3595946/22)
+- See this post in the dev forum for details: [Update](https://devforum.roblox.com/t/plugin-roda-a-powerful-data-editor/3595946/22){:target="_blank"}
 
 
 ---
@@ -176,7 +176,7 @@ You can save the entire project configuration, including all data file configura
 This feature is designed to synchronize project configurations in Team Create or between different machines: [Load Project from DataStore](/roda-docs/pages/home/#load-project-from-datastore)
 
 
-- An option was added to export an project configuration to JSON. See this post in the dev forum for details: [Update](https://devforum.roblox.com/t/plugin-roda-a-powerful-data-editor/3595946/22)
+- An option was added to export an project configuration to JSON. See this post in the dev forum for details: [Update](https://devforum.roblox.com/t/plugin-roda-a-powerful-data-editor/3595946/22){:target="_blank"}
 
 ---
 
